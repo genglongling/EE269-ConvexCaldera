@@ -1,4 +1,4 @@
-### Convex-CALDERA: Certified Rank–Bit Trade-offs for Post-Training LLM Quantization
+### EE269: Convex-CALDERA: Certified Rank–Bit Trade-offs for Post-Training LLM Quantization
 
 #### Results
 
