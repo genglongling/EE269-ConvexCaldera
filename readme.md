@@ -1,5 +1,3 @@
-## EE269 - Signal Processing and Quantization for Machine Learning
-
 ### Convex-CALDERA: Certified Rank–Bit Trade-offs for Post-Training LLM Quantization
 
 #### Results
